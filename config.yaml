@@ -1,0 +1,5 @@
+serverHost: "0.0.0.0"
+serverPort: "8765"
+serverCert: "server.crt"
+serverKey: "server.key"
+linotpUrl: "https://linotp.azercell.com/validate/check"
